@@ -1,0 +1,29 @@
+.app-container {
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 0 15px;
+}
+
+.post-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+
+.post-author {
+  display: block;
+  color: #444;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.post-title {
+  margin-top: 0;
+  font-size: 1.2em;
+}
+
+.post-body {
+  font-size: 1em;
+  color: #555;
+}
